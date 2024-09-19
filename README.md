@@ -20,3 +20,16 @@
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnEwZ216bDRjMnhocDZ0ZG1jcWJ0OXd3OXVqOGNkcGd4bnc1dzZmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+### :woman_technologist: About Me :
+I am a Software Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
+
+- :open_book: I’m am currently studying a Software Development certificate at CodeSpace Academy and learning front-end and back-end development.
+
+- :seedling: Exploring as much as I can about the world around me.
+
+- :earth_africa: In my free time, I enjoy adventuring to new places, countries and environments. I love pushing my physical boundaries with CrossFit and wind down by walking my dogs.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-natalie-de-klerk-6386032a2)
