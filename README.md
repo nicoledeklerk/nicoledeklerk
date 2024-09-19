@@ -30,6 +30,8 @@ I am a Software Development student <img src="https://media.giphy.com/media/WUlp
 
 - :seedling: Exploring as much as I can about the world around me.
 
-- :earth_africa: In my free time, I enjoy adventuring to new places, countries and environments. I love pushing my physical boundaries with CrossFit and wind down by walking my dogs.
+- :earth_africa: In my free time, I enjoy adventuring to new places, countries and environments. I love pushing my physical boundaries with CrossFit and winding down by walking my dogs.
+  
+- :sunflower: My 5-year goal is to be working remotely as a Full Stack Developer for a small company while running starting my alternative living homestead. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-natalie-de-klerk-6386032a2)
