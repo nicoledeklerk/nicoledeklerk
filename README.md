@@ -24,9 +24,9 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Software Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
 
-- :open_book: I’m am currently studying a Software Development certificate at CodeSpace Academy and learning front-end and back-end development.
+- :open_book: I’m currently building ClickCV, a service that blends software development with personal branding to help individuals stand out professionally. I've studied software                      development through CodeSpace Academy, and I’m driven by a passion for creating tools that improve everyday life.
 
 - :seedling: Exploring as much as I can about the world around me.
 
